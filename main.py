@@ -1,6 +1,7 @@
 
 def count_batteries_by_usage(cycles):
-  return {
+  return 
+{
     lowCount,mediumCount,highCount=0,0,0
     for i in cycles:
      if i<400:
